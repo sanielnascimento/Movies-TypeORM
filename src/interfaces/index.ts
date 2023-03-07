@@ -2,8 +2,8 @@ import {
   iMovie,
   iMovieCreate,
   iMovieUpdate,
-  iMovieArray,
+  iAllMoviesResponse,
   iMovieRepo,
 } from "./movies.interfaces";
 
-export { iMovie, iMovieCreate, iMovieUpdate, iMovieArray, iMovieRepo };
+export { iMovie, iMovieCreate, iMovieUpdate, iAllMoviesResponse, iMovieRepo };
